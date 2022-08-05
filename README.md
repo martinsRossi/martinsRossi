@@ -6,7 +6,7 @@
 - 📓 Eu estou cursando Analise e Desenvolvimento de Sistemas, pelo Anhembi Morumbi;
 - 📔 E também faço o curso de bacharel em "Applied Techonology", pela Brigham Young University;
 - 🌐 Amo estudar idiomas. Os meus favoritos são: Inglês, Espanhol, Chinês e Turco;
-- 📧 Você pode me contatar pelo e-mail: renanrossi2012@gmail.com;
+- 📧 Você pode me contatar pelo e-mail: renanrossimartins;
 
 <div align="center">
   <a href="https://github.com/martinsRossi">
