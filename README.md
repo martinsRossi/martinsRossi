@@ -5,7 +5,7 @@
 - ☘️ Estou aprendendo Python e SQL;
 - 📓 Eu estou cursando Analise e Desenvolvimento de Sistemas, pelo Anhembi Morumbi;
 - 📔 E também faço o curso de bacharel em "Applied Techonology", pela Brigham Young University;
-- 🌐 Amo estudar idiomas. Os meus favoritos são: Inglês, Espanhol, Chinês e Turco;
+- 🌐 Amo estudar idiomas. Os meus favoritos são: Inglês, Espanhol, Chinês e Francês;
 - 📧 Você pode me contatar pelo e-mail: renanrossimartins@gmail.com;
 
 <div align="center">
