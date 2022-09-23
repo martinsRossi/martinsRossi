@@ -2,7 +2,7 @@
 
 - 🧑‍🔧 Atualmente, eu trabalho como Ferramenteiro;
 - 🖥️ 🖱️ Mas minha paixão sempre foi o mundo da Computação;
-- ☘️ Estou aprendendo Java e SQL;
+- ☘️ Estou aprendendo Python e SQL;
 - 📓 Eu estou cursando Analise e Desenvolvimento de Sistemas, pelo Anhembi Morumbi;
 - 📔 E também faço o curso de bacharel em "Applied Techonology", pela Brigham Young University;
 - 🌐 Amo estudar idiomas. Os meus favoritos são: Inglês, Espanhol, Chinês e Turco;
