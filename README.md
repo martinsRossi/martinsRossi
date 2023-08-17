@@ -1,7 +1,7 @@
 ### Opaa, tudo bom? Eu sou o Renan Rossi 👋
 
-- 🧑‍🔧 Atualmente, eu trabalho como Ferramenteiro;
-- 🖥️ 🖱️ Mas minha paixão sempre foi o mundo da Computação;
+- 🧑‍🔧 Tenho 23 anos e moro em Jundiaí, São Paulo.
+- 🖥️ 🖱️ Estou no 4º Semestre de Ciência da Computação;
 - ☘️ Estou aprendendo Python e SQL;
 - 📓 Eu estou cursando Analise e Desenvolvimento de Sistemas, pelo Anhembi Morumbi;
 - 📔 E também faço o curso de bacharel em "Applied Techonology", pela Brigham Young University;
