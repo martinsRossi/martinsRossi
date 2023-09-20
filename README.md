@@ -1,11 +1,10 @@
-### Opaa, tudo bom? Eu sou o Renan Rossi 👋
+### Olá. Tudo bem? Eu sou o Renan Rossi 👋
 
-- 🧑‍🔧 Tenho 23 anos e moro em Jundiaí, São Paulo.
+- 🧑‍🔧 Tenho 24 anos e moro em Jundiaí, São Paulo.
 - 🖥️ 🖱️ Estou no 4º Semestre de Ciência da Computação;
-- ☘️ Estou aprendendo Python e SQL;
+- ☘️ Estou aprendendo e aprimorando meus conhecimentos em DevSecOps;
 - 📓 Eu estou cursando Analise e Desenvolvimento de Sistemas, pelo Anhembi Morumbi;
-- 📔 E também faço o curso de bacharel em "Applied Techonology", pela Brigham Young University;
-- 🌐 Amo estudar idiomas. Os meus favoritos são: Inglês, Espanhol, Chinês e Francês;
+- 🌐 Amo estudar idiomas. Os meus favoritos são: Inglês, Espanhol, e Chinês;
 - 📧 Você pode me contatar pelo e-mail: renanrossimartins@gmail.com;
 
 <div align="center">
