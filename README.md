@@ -6,10 +6,12 @@
 - 🛡️ Foco em DevSecOps e práticas de segurança de dados
 - 🌐 Apaixonado por idiomas: 🇺🇸 Inglês, 🇪🇸 Espanhol, 🇨🇳 Chinês e 🇸🇦 Árabe
 
-[![sql_server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://encurtador.com.br/iyO79)
-[![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://encurtador.com.br/iyO79)
-[![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://encurtador.com.br/iyO79)
-[![azure_function](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://encurtador.com.br/iyO79)
+[![sql_server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://github.com/stars/martinsRossi/lists/sql-server)
+[![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://github.com/stars/martinsRossi/lists/oracle-database)
+[![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](https://github.com/stars/martinsRossi/lists/azure)
+<!--[![azure_function](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)]()-->
+[![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/stars/martinsRossi/lists/c)
+[![java]((https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java))](https://github.com/stars/martinsRossi/lists/java)
 [![dockers](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://encurtador.com.br/iyO79)
 [![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/stars/martinsRossi/lists/git)
 
