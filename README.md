@@ -4,7 +4,7 @@
 - 🖥️ Atualmente cursando o 5º semestre de Ciência da Computação
 - 💼 Trabalho com operações de aplicativos e manipulação de bancos de dados
 - 🛡️ Foco em DevSecOps e práticas de segurança de dados
-- 🌐 Apaixonado por idiomas: 🇺🇸 Inglês, 🇪🇸 Espanhol e 🇨🇳 Chinês
+- 🌐 Apaixonado por idiomas: 🇺🇸 Inglês, 🇪🇸 Espanhol, 🇨🇳 Chinês e 🇸🇦 Árabe
 
 ![sql_server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white) ![azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![azure_function](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white) ![dockers](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
