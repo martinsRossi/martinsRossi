@@ -1,7 +1,7 @@
 ## Olá. Tudo bem? Eu sou o Renan Rossi 👋
 
 - 🧑‍💼 Estagiário em Banco de Dados e Aplicações Operacionais na Ericsson
-- 🖥️ Atualmente cursando o 5º semestre de Ciência da Computação
+- 🖥️ Atualmente cursando o 6º semestre de Ciência da Computação
 - 💼 Trabalho com operações de aplicativos e manipulação de bancos de dados
 - 🛡️ Foco em DevSecOps e práticas de segurança de dados
 - 🌐 Apaixonado por idiomas: 🇺🇸 Inglês, 🇪🇸 Espanhol, 🇨🇳 Chinês e 🇸🇦 Árabe
