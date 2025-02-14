@@ -3,7 +3,7 @@
 - 🧑‍💼 Estagiário em Banco de Dados e Cloud Sys Admin @ Ericsson
 - 🖥️ Atualmente cursando o 7º semestre de Ciência da Computação
 - 💼 Trabalho com operações de aplicativos e manipulação de bancos de dados
-- 🛡️ Foco em DevSecOps e práticas de segurança de dados
+- 🛡️ Foco em Infra, Cloud e práticas de segurança de dados
 - 🌐 Apaixonado por idiomas: 🇺🇸 Inglês, 🇪🇸 Espanhol, 🇨🇳 Chinês e 🇸🇦 Árabe
 
 ### Listas para REPOS:
